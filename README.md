@@ -1,5 +1,3 @@
-<img src="https://markdownmonster.west-wind.com/Images/MarkdownMonster_Icon_128.png" align="right" height="64px" />
-
 # Jupyter Notebook et PyCharm : Comparaison et Utilisation
 ## Introduction
 Dans ce tutoriel, nous explorerons deux environnements de développement populaires de Python : Jupyter Notebook et PyCharm. Ces environnements ont déjà été vu en classe donc nous ferons un cours résumé de leurs fonctionnalité, et de leur manière de les utiliser pour développer des projets Python. De plus, nous aborderons leurs 4 grandes différences pour bien sélectionner votre environnement de travail.  Nous finirons également par des exemples de code pour illustrer les différences.
