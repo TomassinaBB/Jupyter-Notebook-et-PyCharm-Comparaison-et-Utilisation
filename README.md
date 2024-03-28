@@ -1,6 +1,8 @@
+<img src="https://markdownmonster.west-wind.com/Images/MarkdownMonster_Icon_128.png" align="right" height="64px" />
+
 # Jupyter Notebook et PyCharm : Comparaison et Utilisation
 ## Introduction
-Dans ce tutoriel, nous explorerons deux environnements de développement populaires de Python : Jupyter Notebook et PyCharm. Ces environnements ont déjà été vu en classe donc nous ferons un cours résumé de leurs fonctionnalités, de leurs avantages et inconvénients, et de leur manière de les utiliser pour développer des projets Python. De plus, nous aborderons leurs 4 grandes différences pour bien sélectionner votre environnement de travail.  Nous finirons également par des exemples de code pour illustrer les différences.
+Dans ce tutoriel, nous explorerons deux environnements de développement populaires de Python : Jupyter Notebook et PyCharm. Ces environnements ont déjà été vu en classe donc nous ferons un cours résumé de leurs fonctionnalité, et de leur manière de les utiliser pour développer des projets Python. De plus, nous aborderons leurs 4 grandes différences pour bien sélectionner votre environnement de travail.  Nous finirons également par des exemples de code pour illustrer les différences.
 
 ## Partie 1: Jupyter Notebook
 
@@ -57,6 +59,7 @@ En somme , Jupyter Notebook combine un serveur local, des kernels pour exécuter
 
 Jupyter Notebook et PyCharm sont deux environnements de développement populaires pour Python, mais ils diffèrent dans leur conception, leurs fonctionnalités et leur utilisation. Voici quatre grandes différences entre les deux :
 
+
 ### Mode interactif vs Environnement de développement intégré (IDE):
 ------
 Jupyter Notebook est principalement utilisé pour le développement interactif et l'exploration des données. Il permet d'écrire et d'exécuter du code Python par sections, ce qui est idéal pour l'analyse exploratoire, la visualisation de données et le prototypage rapide.
@@ -84,7 +87,11 @@ Jupyter Notebook est particulièrement flexible et polyvalent, car il permet d'i
 
 PyCharm offre une expérience de développement plus structurée et ciblée, avec des fonctionnalités spécifiques pour le développement de logiciels Python de grande envergure. Il est mieux adapté pour les projets de développement de logiciels plus traditionnels et pour les développeurs qui préfèrent une interface de développement plus classique.
 
-En résumé, Jupyter Notebook est idéal pour l'exploration des données et la création de documents interactifs, tandis que PyCharm est mieux adapté pour le développement de projets Python de grande envergure avec un ensemble complet d'outils de développement. Le choix entre les deux dépendra des besoins spécifiques du projet et des préférences personnelles du développeur.
+En somme, Jupyter Notebook est idéal pour l'exploration des données et la création de documents interactifs, tandis que PyCharm est mieux adapté pour le développement de projets Python de grande envergure avec un ensemble complet d'outils de développement. Le choix entre les deux dépendra des besoins spécifiques du projet et des préférences personnelles du développeur.
+
+***Consulter cette source pour encore plus d'éléments de comparaison***: [Geeks fo Geeks](https://www.geeksforgeeks.org/difference-between-jupyter-and-pycharm/) :-)
+
+
 
 # Conclusion
 Dans ce tutoriel, nous avons exploré deux environnements de développement populaires pour Python : Jupyter Notebook et PyCharm. Nous avons discuté de leurs fonctionnalités, de leurs avantages et inconvénients, et de la manière de les utiliser pour développer des projets Python. Jupyter Notebook est idéal pour créer des documents interactifs et exploratoires, tandis que PyCharm est plus adapté pour le développement de projets Python complexes avec un ensemble complet d'outils de développement. En fonction de vos besoins et préférences, vous pouvez choisir l'outil qui convient le mieux à votre projet.
@@ -136,3 +143,5 @@ Autres environnements de travail
 * https://www.jetbrains.com/pycharm/
 * https://www.youtube.com/watch?v=bcYWaDD2FuE
 * https://jupyter-notebook.readthedocs.io/en/stable/notebook.html 
+* https://medium.com/@think-data/pycharm-vs-jupyter-notebooks-choosing-the-right-python-programming-environment-ca235b06431c#:~:text=PyCharm%20excels%20in%20providing%20a,%2C%20data%20analysis%2C%20and%20documentation.
+* https://www.reddit.com/r/learnpython/comments/wirpqi/pycharm_vs_jupyter_notebook/?rdt=45912
